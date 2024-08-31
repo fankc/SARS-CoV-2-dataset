@@ -5,4 +5,4 @@ From the [CADDE Project](https://www.caddecentre.org/covid19/); FAST5 and FASTQ 
 
 Please cite: http://virological.org/t/first-report-of-covid-19-in-south-america/409
 
-Also can download via the link: https://cadde.s3.climb.ac.uk/SP1-raw.tgz
+Can download via the link: https://cadde.s3.climb.ac.uk/SP1-raw.tgz or https://zenodo.org/records/12750778
